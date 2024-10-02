@@ -44,8 +44,13 @@ body {
     height: 100%;
 }
 
+#zero {
+    width: 50%;
+}
+
 button {
     height: 25%;
     width: 25%;
     flex: 1 1 auto;
+    border: 1px solid green;
 }
