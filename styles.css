@@ -5,7 +5,7 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   outline: none;
-  font-size: 24px;
+  font-size: 20px;
   font-family: Roboto, sans-serif;
   -webkit-tap-highlight-color: transparent;
 }
@@ -22,8 +22,8 @@ body {
 }
 
 .calculator-grid {
-    width: 20rem;
-    height: 27rem;
+    width: 30vmax;
+    height: 70vmin;
     display: flex;
     flex-direction: column;
 }
